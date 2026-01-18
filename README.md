@@ -24,7 +24,7 @@ A short demonstration of the deployed system is available here:
 [Demo video of the mobile application](demo/demo_Android.mp4)
 
 
-[Watch the demo video] (https://github.com/ManyaFarah/eye-disease-on-device/raw/refs/heads/main/demo/demo_Android.mp4) 
+[Watch the demo video](https://github.com/user-attachments/assets/fb2131db-f33a-4843-9374-b00a35d39d30) 
 
 
 ## Reproducibility
