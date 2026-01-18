@@ -24,14 +24,7 @@ A short demonstration of the deployed system is available here:
 [Demo video of the mobile application](demo/demo_Android.mp4)
 
 
-
-## Demo
-
-A short demonstration of the deployed mobile application performing on-device inference is available here:
-
-▶️ [Watch the demo video](demo/demo_Android.mp4)
-
-The system runs fully offline and performs real-time classification on mid-range Android devices.
+[Watch the demo video] (https://github.com/ManyaFarah/eye-disease-on-device/raw/refs/heads/main/demo/demo_Android.mp4) 
 
 
 ## Reproducibility
