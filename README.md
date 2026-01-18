@@ -23,4 +23,4 @@ The repository provides the optimized model and the deployment pipeline to suppo
 
 ## Author
 Manya Jamil Farah  
-Master’s Research – Web Sciences in Syrian Virtual University  
+Master’s Research – Web Sciences - Syrian Virtual University  
