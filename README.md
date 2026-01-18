@@ -19,9 +19,9 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 - `demo/` – Demo video showing the deployed application
 
 ## Demo
-
+A short demonstration of the deployed mobile application performing on-device inference is available here:
 [Watch the demo video](https://github.com/user-attachments/assets/fb2131db-f33a-4843-9374-b00a35d39d30) 
-
+The system runs fully offline and performs real-time classification on mid-range Android devices.
 
 ## Reproducibility
 The repository provides the optimized model and the deployment pipeline to support reproducibility of the reported results. Full training code is not included as model training is described in a prior study.
