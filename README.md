@@ -16,7 +16,12 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 - `mobile_app/` – Flutter application integrating the TFLite model  
 - `scripts/` – Scripts for model conversion and evaluation  
 - `results/` – Tables and figures reported in the paper  
-- `demo/` – Demo video and GIF showing the deployed application  
+- `demo/` – Demo video and GIF showing the deployed application
+
+## Demo
+
+A short demonstration of the deployed system is available here:  
+[Demo video of the mobile application](demo/demo.mp4)
 
 ## Reproducibility
 The repository provides the optimized model and the deployment pipeline to support reproducibility of the reported results. Full training code is not included as model training is described in a prior study.
