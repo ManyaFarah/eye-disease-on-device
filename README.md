@@ -22,5 +22,5 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 The repository provides the optimized model and the deployment pipeline to support reproducibility of the reported results. Full training code is not included as model training is described in a prior study.
 
 ## Author
-Manya Farah  
+Manya Jamil Farah  
 Master’s Research – Web Sciences in Syrian Virtual University  
