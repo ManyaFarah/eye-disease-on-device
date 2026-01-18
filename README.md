@@ -20,8 +20,7 @@ https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 ## Demo
 
-[Watch the demo video]
-(https://github.com/user-attachments/assets/fb2131db-f33a-4843-9374-b00a35d39d30) 
+[Watch the demo video](https://github.com/user-attachments/assets/fb2131db-f33a-4843-9374-b00a35d39d30) 
 
 
 ## Reproducibility
