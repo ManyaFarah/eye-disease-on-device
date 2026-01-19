@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+# Flutter generated / build
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+build/
+**/ephemeral/
+**/.plugin_symlinks/
+
+# Android local
+android/local.properties
+
+# IDE
+.idea/
+.vscode/
+
