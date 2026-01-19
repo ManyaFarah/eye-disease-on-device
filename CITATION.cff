@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "On-Device Optimization and Mobile Deployment of a Lightweight Eye Disease Classifier"
+message: "If you use this repository, please cite the associated paper."
+authors:
+  - family-names: Farah
+    given-names: Manya
+version: 1.0.0
+date-released: 2026-01-01
+url: https://github.com/ManyaFarah/eye-disease-on-device

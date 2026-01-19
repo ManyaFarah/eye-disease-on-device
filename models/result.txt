@@ -1,0 +1,4 @@
+FP16 TFLite
+Path: /content/drive/MyDrive/Eye_Project/Eye_Models_Reports/MobileNetV2/Optimization_Quantization/01_fp16/model_fp16.tflite
+Test Accuracy: 0.919937
+Size(MB): 4.262
