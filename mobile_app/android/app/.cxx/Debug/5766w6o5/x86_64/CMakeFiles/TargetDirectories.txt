@@ -1,2 +1,0 @@
-C:/Users/LEGION/AndroidStudioProjects/eye_disease_app/android/app/.cxx/Debug/5766w6o5/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/LEGION/AndroidStudioProjects/eye_disease_app/android/app/.cxx/Debug/5766w6o5/x86_64/CMakeFiles/rebuild_cache.dir
